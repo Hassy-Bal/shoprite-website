@@ -1,4 +1,4 @@
-}
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
@@ -26,13 +26,14 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
+}
 
 .lower-header-inner .logo {
     width: 150px;
 }
 
 .lower-header-inner .menu {
-    width: 20px
+    width: 20px;
 }
 
 .showcase-container img {
